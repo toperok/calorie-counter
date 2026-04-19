@@ -23,7 +23,7 @@ class Config:
     CSV_PATH = "data/dish_eda.csv"
     INGR_CSV_PATH = "data/ingredients.csv"
     IMG_DIR = "data/images"
-    SAVE_PATH = "models/best_model.pth"
+    SAVE_PATH = "best_model.pth"
     TRAIN_DF_PATH = "data/train_df.csv"
     VAL_DF_PATH = "data/val_df.csv"
     TEST_DF_PATH = "data/test_df.csv"
