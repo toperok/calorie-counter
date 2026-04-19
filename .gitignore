@@ -19,6 +19,9 @@ data/*.json
 data/*.parquet
 !data/.gitkeep
 
+# Model weights
+models/*.pth
+
 # Confidential data and logs
 .env
 logs/
