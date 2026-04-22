@@ -21,6 +21,7 @@ data/*.parquet
 
 # Model weights
 models/*.pth
+models/*.onnx
 
 # Confidential data and logs
 .env
